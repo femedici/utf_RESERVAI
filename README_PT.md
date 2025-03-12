@@ -1,5 +1,6 @@
 # UTF - ReservAi!
 > Aplicação desenvolvida para aprendizado na UTFPR - CM
+
 English README:
 [Readme EN](README.md)
 
@@ -15,7 +16,7 @@ Aplicação para reserva de salas disponíveis na faculdade UTFPR. O administrad
    - Validação por tipo de token da requisição e verificação por middleware 
 - Criar um pedido de reserva
 > Página para solicitar uma reserva
-![Databrick project with Snowflake](images/booking.png.png)
+![Databrick project with Snowflake](images/booking.png)
 
 - Listar reservas em espera, canceladas, negadas ou aprovadas do usuário. 
 > HomePage:
@@ -23,7 +24,7 @@ Aplicação para reserva de salas disponíveis na faculdade UTFPR. O administrad
 
 - (Adm) Listagem de pedidos de reserva / Aprovar ou negar pedidos
 > Página de listagem de pedidos
-![Databrick project with Snowflake](images/adm.png.png)
+![Databrick project with Snowflake](images/adm.png)
 
 ## Estrutura do projeto 
 A aplicação está estruturada em front-end e back-end, sendo o front-end desenvolvido por mim neste repositório e o back-end disponível em: [Repositório backend](https://github.com/afmireski/OPT120-projeto-final-api)
