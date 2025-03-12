@@ -7,13 +7,15 @@ Portuguese Readme:
 ## Description
 ReservAi is an application for booking available rooms at UTFPR (Brazilian Federal College). Admins can approve or deny reservation requests, while students and faculty members, such as professors, can submit booking requests.
 
-> Login:
-![Databrick project with Snowflake](images/login.png)
+
 
 ## Features
 
 - Login session with different user roles (Student, Faculty, Administrator)
   - Request token validation and middleware verification
+> Login:
+![Databrick project with Snowflake](images/login.png)
+
 - Create a reservation request
 > Reservation request page
 ![Databrick project with Snowflake](images/booking.png)
