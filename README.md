@@ -15,7 +15,7 @@ ReservAi is an application for booking available rooms at UTFPR (Brazilian Feder
   - Request token validation and middleware verification
 - Create a reservation request
 > Reservation request page
-![Databrick project with Snowflake](images/booking.png.png)
+![Databrick project with Snowflake](images/booking.png)
 
 - List pending, canceled, denied, or approved reservations for the user
 > HomePage:
@@ -23,7 +23,7 @@ ReservAi is an application for booking available rooms at UTFPR (Brazilian Feder
 
 - (Admin) View all reservation requests / Approve or deny requests
 > Reservation request list page
-![Databrick project with Snowflake](images/adm.png.png)
+![Databrick project with Snowflake](images/adm.png)
 
 ## Project Structure
 The application is structured into front-end and back-end. The front-end, developed by me, is available in this repository, while the back-end can be found here: [Backend Repository](https://github.com/afmireski/OPT120-projeto-final-api).
